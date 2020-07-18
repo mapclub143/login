@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+     padding: 0px;
+     height: auto;
+     font-family: 'Google Sans',arial,sans-serif;
+}
+p.tieude{
+    padding: 16px 0px 0px;
+    font-size: 24px;
+}
+input{
+    margin: 1px 1px 0 1px;
+    padding: 7px 15px;
+}
+
+div.cre{
+    padding: 24px 0px 0px;
+    height: 370px;
+    width: 335px;
+}
+p{
+    font-size: 12px;
+}
+img.logo2{
+    height: 50%;
+    width: 50%;
+    
+    
+}
+div.big{
+    display: flex;
+}
+div.logo2{
+    height: 442px;
+    width: 252px;
+}
+div.tong{
+    height: 400px;
+    width: 560px;
+    border: 1px solid black;
+    border-radius: 10px;
+    display: block;
+    padding: 48px 40px 36px;
+}
+p{
+    padding: 24px 0px 10px;
+}
+li{
+    list-style-type: none;
+    display: inline;
+}
